@@ -5,7 +5,7 @@ import Destination from "../Destination/Destination";
 import Blog from "../Blog/Blog";
 import Contact from "../Contact/Contact";
 import LogIn from "../Auth/LogIn";
-import Home from "../Home";
+import Home from "../Home/Home";
 
 export const router = createBrowserRouter([
   {
